@@ -6,11 +6,11 @@ Un proyecto de chat en tiempo real desarrollado con **React** y **Socket.IO** qu
 
 ### Pantalla de Login
 
-<img src="../imagenes/login.png" alt="Login" width="400" height="400">
+<img src="imagenes/login.png" alt="Login" width="400" height="400">
 
 ### Chat en Funcionamiento
 
-<img src="../imagenes/chat.png" alt="Chat" width="400" height="400">
+<img src="imagenes/chat.png" alt="Chat" width="400" height="400">
 
 ## ¿Qué es este proyecto?
 
